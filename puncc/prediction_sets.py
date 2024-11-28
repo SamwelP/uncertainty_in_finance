@@ -1,5 +1,4 @@
-# Reproduced code from https://github.com/thuml/Nonstationary_Transformers
-
+# Reproduced code from https://github.com/deel-ai/puncc/tree/main
 
 # -*- coding: utf-8 -*-
 # Copyright IRT Antoine de Saint Exupéry et Université Paul Sabatier Toulouse III - All
